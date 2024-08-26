@@ -1,7 +1,8 @@
 import json
 import os
 import subprocess
-from typing import Iterable, Optional, Union
+from collections.abc import Iterable
+from typing import Optional, Union
 
 import numpy as np
 import pandas as pd
